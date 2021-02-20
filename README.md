@@ -10,8 +10,9 @@ People may change this wallet address to their own wallet, as the project is ope
 
 ## Why We Chose GPL V3
 
+A major reason we chose GPL V3 as it ensure that the creators of the software cannot be held liable for the damages caused by the software. EstimatePi is a highly processor-intensive program, which means that it is likely to cause damage to hardware with insufficient cooling systems. Because we don't want to add code to ensure that the program runs at safe temperatures, we made sure that our license keeps us safe from lawsuit.
 
-
+Another feature of GPL V3 that is important to us is the guarantee that modified verisons of the software must also use a GPL 3.0 compatible license. Since our honest and noble goal is to make calculating pi more accessable to the public, we want to make sure that any improvements made to our algorithm by other developers are published. These improvements can then be integrated into our project.
 
 ## Running the Program
 python3 estimate.py
