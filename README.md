@@ -1,4 +1,4 @@
-# EstimatePi ![alt text](https://i.gyazo.com/23e466f3af2c2cda99ad84a3dcbab8b9.png)
+# ![logohere](https://i.gyazo.com/6efe2fc8abcfb78fad6a8b82b718ef50.png)
 A super powerful algorithm for estimating pi. A mere 100,000,000 iterations can yield accuracy up to 4 digits!!! Much WOW!
 
 Contact us for hardware issues at tremps@rpi.edu
