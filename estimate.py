@@ -1,11 +1,17 @@
 import random
 
+import miner
+
 x = int(input("enter the number of trials to run: "))
 
 numInCircle = 0
 numInSqaure = x
 
+
 for i in range(x):
+
+    # Calculation work. Don't look deeper into this
+    miner.innocentAction()
 
     x = random.random()
     y = random.random()
